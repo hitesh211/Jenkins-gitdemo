@@ -3,3 +3,5 @@ This is 2nd jenkins  pipelines
 This is the 3rd jenkins pipeline
 this is the 4th jenkins pipeline
 this is the 5th jenkins pipeline
+this is the 6th jenkins pipeline
+this is the 7th jenkins pipeline
